@@ -47,6 +47,6 @@ Arroyo, J., Blum, D., Benne, K., & Figueroa, I. (2024). Building Control with RL
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11553263},
   booktitle={Climate Change AI Summer School 2024},
-  howpublished={\url{https://https://github.com/climatechange-ai-tutorials/building-control-boptest}}
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/building-control-boptest}}
 }
 ```
