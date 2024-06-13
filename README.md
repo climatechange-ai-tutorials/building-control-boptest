@@ -7,7 +7,7 @@ Authors:
 * Kyle Benne
 * Iago Figueroa
 
-Originally presented at CCAI Summer School 2022.
+Originally presented at Climate Change AI Summer School 2022.
 
 Recorded talk [here](https://drive.google.com/file/d/1lvCVQef_kctwCagA5QOVj7QljHQ1xKUQ/view)
 
